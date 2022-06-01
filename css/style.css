@@ -197,7 +197,6 @@ body{
 
 .sala-jogos{
     background-image: url(/img/Rectangle\ 10.png);
-
 }
 
 .sala-jogos h1{
@@ -208,4 +207,15 @@ body{
     text-transform: uppercase;
     padding-left: 25px;
 
+}
+
+.imagens{
+    width: 1400px;
+    height: 585px;
+
+}
+
+.imagens img{
+    width: 390px;
+    height: 450px;
 }
