@@ -199,3 +199,13 @@ body{
     background-image: url(/img/Rectangle\ 10.png);
 
 }
+
+.sala-jogos h1{
+    font-family: 'Dela Gothic One', cursive;
+    font-weight: 400px;
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    padding-left: 25px;
+
+}
